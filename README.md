@@ -2,7 +2,7 @@
 
 Here are some Python examples that I am using to learn.
 
-forloop https://www.tutorialspoint.com/python/python_for_loops.htm
+forloop 
 
 switch 
 
@@ -15,3 +15,6 @@ readafile
 writeafile
 
 string manipulation
+
+References: 
+https://www.tutorialspoint.com/python/python_for_loops.htm
