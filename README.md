@@ -18,3 +18,4 @@ string manipulation
 
 References: 
 https://www.tutorialspoint.com/python/python_for_loops.htm
+https://www.freecodecamp.org/news/python-switch-statement-switch-case-example/
